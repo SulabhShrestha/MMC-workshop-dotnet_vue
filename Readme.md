@@ -13,3 +13,5 @@ https://www.postgresql.org/download/
 - dotnet add package Microsoft.EntityFrameworkCore.Design
 - dotnet add package EFCore.NamingConventions
 - dotnet add package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
+
+### This is a change to a readme.md file
