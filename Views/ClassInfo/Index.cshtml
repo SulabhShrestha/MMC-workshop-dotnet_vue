@@ -20,6 +20,11 @@
                     <td>@item.Name</td>
                     <td>@item.Description</td>
                     <td>@item.CreatedAt</td>
+
+                    <td>
+                        <a asp-controller="ClassInfo" asp-action="Update" asp-route-itemid="@item.Id" >Edit</a>
+                    </td>
+
                 </tr>
             }
         </tbody>
